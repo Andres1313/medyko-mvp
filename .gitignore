@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+dist/
+
+# Credentials
+credentials.json
+serviceAccount.json
+*.key
+
+# Firebase local/build artifacts
+.firebase/
